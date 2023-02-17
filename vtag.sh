@@ -2,7 +2,7 @@
 # 
 # Adds running time overlay to video file, using
 # date argument or filesystem timestamp of video
-# muonato/vtag @ GitHub (AUG-2021)
+#        muonato/vtag @ GitHub (AUG-2021)
 #
 # Parameters: vtag.sh <filename> [start time]
 #	1: Path to input video file
