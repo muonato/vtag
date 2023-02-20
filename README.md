@@ -1,5 +1,5 @@
 # Video overlay tag
-Adds running time overlay on video file with ffmpeg, using datetime argument or file timestamp of the input file.
+Adds running time overlay to video image with ffmpeg, using datetime argument or file timestamp of the input file.
 ```
 Parameters: vtag.sh <filename> [start time]
     1: Path to input video file
